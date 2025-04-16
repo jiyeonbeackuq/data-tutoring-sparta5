@@ -9,6 +9,12 @@ This repository contains key learning materials and practical activities shared 
 - 💬 Hands-on problem solving and mentoring notes
 - 🧾 Project ideas and feedback summaries
 
+🧑‍🏫 About the Bootcamp
+Sparta Coding Club is a leading coding bootcamp in South Korea. I worked remotely as a tutor during the 5th cohort of their Data Analysis course, supporting students via Zoom, ZEP (metaverse platform), Notion, and Google Colab.
+
+📬 Contact
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/jiyeon-beack/) if you have any questions or would like to collaborate!
+
 ## 📁 Structure
 
 ```bash
@@ -17,9 +23,3 @@ This repository contains key learning materials and practical activities shared 
 ├── ml_basics/
 ├── final_project_guides/
 └── README.md
-
-🧑‍🏫 About the Bootcamp
-Sparta Coding Club is a leading coding bootcamp in South Korea. I worked remotely as a tutor during the 5th cohort of their Data Analysis course, supporting students via Zoom, ZEP (metaverse platform), Notion, and Google Colab.
-
-📬 Contact
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/jiyeon-beack/) if you have any questions or would like to collaborate!
